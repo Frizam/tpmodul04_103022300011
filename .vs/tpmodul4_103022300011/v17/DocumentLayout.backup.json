@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{385D0AFC-58D1-4AB0-8407-EE03B55A3843}|tpmodul4_103022300011.csproj|c:\\users\\lenovo\\desktop\\kpl\\tpmodul4_103022300011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{385D0AFC-58D1-4AB0-8407-EE03B55A3843}|tpmodul4_103022300011.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385D0AFC-58D1-4AB0-8407-EE03B55A3843}|tpmodul4_103022300011.csproj|c:\\users\\lenovo\\desktop\\kpl\\tpmodul4_103022300011\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385D0AFC-58D1-4AB0-8407-EE03B55A3843}|tpmodul4_103022300011.csproj|solutionrelative:kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul4_103022300011\\KodePos.cs",
+              "RelativeDocumentMoniker": "KodePos.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul4_103022300011\\KodePos.cs",
+              "RelativeToolTip": "KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:41:09.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul4_103022300011\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T06:11:41.05Z",
               "EditorCaption": ""
